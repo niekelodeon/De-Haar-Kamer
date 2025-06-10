@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+# De Haar Kamer
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Website of a local hair salon in Wemeldinge: https://de-haarkamer.nl
+Made with Nuxt 3
+
+aanpassen-handleiding.txt describes how to change, add or delete data with Strato's webhosting.
 
 ## Setup
 
@@ -31,30 +34,6 @@ pnpm run dev
 # yarn
 yarn dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
 
 # yarn
 yarn preview
