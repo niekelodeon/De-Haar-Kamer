@@ -1,6 +1,6 @@
 # De-Haarkamer
 
-Website of a local hair salon in Wemeldinge, Netherlands: https://de-haarkamer.nl
+Website of a local hair salon in Wemeldinge, the Netherlands: https://de-haarkamer.nl
 
 Made with Nuxt 3 in 2023
 
