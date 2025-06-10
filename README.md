@@ -1,4 +1,4 @@
-# De Haar Kamer
+# De-HaarKamer
 
 Website of a local hair salon in Wemeldinge: https://de-haarkamer.nl
 
