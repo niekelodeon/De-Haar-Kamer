@@ -1,7 +1,8 @@
 # De Haar Kamer
 
 Website of a local hair salon in Wemeldinge: https://de-haarkamer.nl
-Made with Nuxt 3
+
+Made with Nuxt 3 in 2023
 
 aanpassen-handleiding.txt describes how to change, add or delete data with Strato's webhosting.
 
