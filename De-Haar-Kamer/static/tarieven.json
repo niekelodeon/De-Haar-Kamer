@@ -1,0 +1,302 @@
+{
+  "titel": [
+    {
+      "name": "Tarieven 2023"
+    }
+  ],
+
+  "Heren": [
+    {
+      "name": "Knippen",
+      "voor": "",
+      "price": "17.50"
+    },
+    {
+      "name": "Wassen & Knippen",
+      "voor": "",
+      "price": "20.00"
+    },
+    {
+      "name": "Volledig Tondeuse",
+      "voor": "",
+      "price": "15.00"
+    }
+  ],
+
+  "Dames": [
+    {
+      "name": "Knippen",
+      "voor": "",
+      "price": "20.00"
+    },
+    {
+      "name": "Wassen, Knippen & Drogen",
+      "voor": "",
+      "price": "22.50"
+    },
+    {
+      "name": "Wassen, Knippen & Fohnen",
+      "voor": "",
+      "price": "27.50"
+    },
+    {
+      "name": "Wassen & Fohnen",
+      "voor": "",
+      "price": "18.50"
+    }
+  ],
+
+  "Kinderen": [
+    {
+      "name": "Knippen t/m 10 jaar",
+      "voor": "",
+      "price": "15.00"
+    }
+  ],
+
+  "Verven": [
+    {
+      "name": "Uitgroei Verf",
+      "voor": "v.a",
+      "price": "41.00"
+    },
+    {
+      "name": "Verven Lang Haar",
+      "voor": "v.a",
+      "price": "51,00"
+    },
+    {
+      "name": "Folie's In Verf t/m 10 Folies",
+      "voor": "v.a",
+      "price": "17.50"
+    },
+    {
+      "name": "Folie Coupe Soleil Kort",
+      "voor": "v.a",
+      "price": "47.50"
+    },
+    {
+      "name": "Folie Coupe Soleil Half",
+      "voor": "v.a",
+      "price": "57.50"
+    },
+    {
+      "name": "Folie Coupe Soleil Lang",
+      "voor": "v.a",
+      "price": "67.50"
+    },
+    {
+      "name": "Toner",
+      "voor": "v.a",
+      "price": "29,95"
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ],
+
+  "": [
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ],
+
+  "": [
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ],
+
+  "": [
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ],
+
+  "": [
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ],
+
+  "": [
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ],
+
+  "": [
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    },
+    {
+      "name": "",
+      "voor": "",
+      "price": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Contact": [
+    {
+      "item": "Kerkweg 10A"
+    },
+    {
+      "item": "4424 NJ"
+    },
+    {
+      "item": "Wemeldinge"
+    },
+    {
+      "item": "-- --------"
+    },
+    {
+      "item": "info@de-haarkamer.nl"
+    }
+  ],
+
+  "Openingstijden": [
+    {
+      "item": "dinsdag:"
+    },
+    {
+      "item": "09:00 - 13:00 & 19:00 - 21:00"
+    },
+    {
+      "item": "donderdag:"
+    },
+    {
+      "item": "09:00 - 21:00"
+    },
+    {
+      "item": "vrijdag:"
+    },
+    {
+      "item": "09:00 - 13:00"
+    }
+  ]
+}

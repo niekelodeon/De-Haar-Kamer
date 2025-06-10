@@ -1,0 +1,43 @@
+{
+  "home": [
+    {
+      "link": "../assets/binnen.png"
+    },
+    {
+      "link": "../assets/buiten.png"
+    }
+  ],
+
+  "producten": [
+    {
+      "link": "../assets/product-1.png"
+    },
+    {
+      "link": "../assets/product-2.png"
+    },
+    {
+      "link": "../assets/loreal.png"
+    },
+    {
+      "link": ""
+    },
+    {
+      "link": ""
+    },
+    {
+      "link": ""
+    },
+    {
+      "link": ""
+    }
+  ],
+
+  "contact": [
+    {
+      "link": ""
+    },
+    {
+      "link": ""
+    }
+  ]
+}
